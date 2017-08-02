@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author HP BO
+ * @author FELIPE
  */
 public class Consultar extends javax.swing.JFrame {
 
